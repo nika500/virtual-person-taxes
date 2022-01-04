@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/virtual-person-taxes/precache-manifest.8e06bfba1b1537351cdd7340c2e65bde.js"
+  "/virtual-person-taxes/precache-manifest.9592e1f431704c940c3ac6b8994a1ee3.js"
 );
 
 self.addEventListener('message', (event) => {
